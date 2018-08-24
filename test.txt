@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 (3this time , not add add commit test.txt in product
+=======
+(4)no commit ,and watch checkout master ,cat test.txt before git merge
+>>>>>>> product
